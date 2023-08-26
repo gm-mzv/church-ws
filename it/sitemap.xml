@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/it/categories/</loc>
+    <loc>https://gm-mzv.github.io/church-ws/it/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/categories/"
+                href="https://gm-mzv.github.io/church-ws/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="/de/categories/"
+                href="https://gm-mzv.github.io/church-ws/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/"
+                href="https://gm-mzv.github.io/church-ws/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="/it/categories/"
+                href="https://gm-mzv.github.io/church-ws/it/categories/"
                 />
   </url><url>
-    <loc>/it/</loc>
+    <loc>https://gm-mzv.github.io/church-ws/it/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/"
+                href="https://gm-mzv.github.io/church-ws/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="/de/"
+                href="https://gm-mzv.github.io/church-ws/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/"
+                href="https://gm-mzv.github.io/church-ws/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="/it/"
+                href="https://gm-mzv.github.io/church-ws/it/"
                 />
   </url><url>
-    <loc>/it/tags/</loc>
+    <loc>https://gm-mzv.github.io/church-ws/it/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/tags/"
+                href="https://gm-mzv.github.io/church-ws/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="/de/tags/"
+                href="https://gm-mzv.github.io/church-ws/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/"
+                href="https://gm-mzv.github.io/church-ws/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="/it/tags/"
+                href="https://gm-mzv.github.io/church-ws/it/tags/"
                 />
   </url>
 </urlset>

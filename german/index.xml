@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EChB-Gemeinde Meinerzhagen-Valbert</title>
-    <link>/german/</link>
+    <link>https://gm-mzv.github.io/church-ws/german/</link>
     <description>Recent content on EChB-Gemeinde Meinerzhagen-Valbert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 -0400</lastBuildDate><atom:link href="/german/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 -0400</lastBuildDate><atom:link href="https://gm-mzv.github.io/church-ws/german/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Häufige Fragen</title>
-      <link>/german/faq/</link>
+      <link>https://gm-mzv.github.io/church-ws/german/faq/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 -0400</pubDate>
       
-      <guid>/german/faq/</guid>
+      <guid>https://gm-mzv.github.io/church-ws/german/faq/</guid>
       <description>Welcome to Airspace! Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/german/message_sent/</link>
+      <link>https://gm-mzv.github.io/church-ws/german/message_sent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/german/message_sent/</guid>
+      <guid>https://gm-mzv.github.io/church-ws/german/message_sent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dienstleistungen</title>
-      <link>/german/service/</link>
+      <link>https://gm-mzv.github.io/church-ws/german/service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/german/service/</guid>
+      <guid>https://gm-mzv.github.io/church-ws/german/service/</guid>
       <description></description>
     </item>
     
     <item>
       <title>John Doe</title>
-      <link>/german/author/john-doe/</link>
+      <link>https://gm-mzv.github.io/church-ws/german/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/german/author/john-doe/</guid>
+      <guid>https://gm-mzv.github.io/church-ws/german/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
     </item>
     
     <item>
       <title>Mark Dinn</title>
-      <link>/german/author/mark-dinn/</link>
+      <link>https://gm-mzv.github.io/church-ws/german/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/german/author/mark-dinn/</guid>
+      <guid>https://gm-mzv.github.io/church-ws/german/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
     </item>
     
     <item>
       <title>Schicken Sie uns eine Nachricht</title>
-      <link>/german/contact/</link>
+      <link>https://gm-mzv.github.io/church-ws/german/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/german/contact/</guid>
+      <guid>https://gm-mzv.github.io/church-ws/german/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Über uns</title>
-      <link>/german/about/</link>
+      <link>https://gm-mzv.github.io/church-ws/german/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/german/about/</guid>
+      <guid>https://gm-mzv.github.io/church-ws/german/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsere Preise</title>
-      <link>/german/pricing/</link>
+      <link>https://gm-mzv.github.io/church-ws/german/pricing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/german/pricing/</guid>
+      <guid>https://gm-mzv.github.io/church-ws/german/pricing/</guid>
       <description></description>
     </item>
     
