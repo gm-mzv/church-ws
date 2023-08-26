@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aktuelles  on EChB-Gemeinde Meinerzhagen-Valbert</title>
+    <link>/aktuelles/</link>
+    <description>Recent content in Aktuelles  on EChB-Gemeinde Meinerzhagen-Valbert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 25 Aug 2023 00:00:00 +0100</lastBuildDate><atom:link href="/aktuelles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ausflug ins Grüne</title>
+      <link>/aktuelles/gemeindeausfluginsgruene/</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0100</pubDate>
+      
+      <guid>/aktuelles/gemeindeausfluginsgruene/</guid>
+      <description>Wir planen am 27.08.2023 um 16 Uhr einen Ausflug ins Grüne mit der ganzen Gemeinde.</description>
+    </item>
+    
+    <item>
+      <title>Erntedankfest 2023</title>
+      <link>/aktuelles/erntedank/</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0100</pubDate>
+      
+      <guid>/aktuelles/erntedank/</guid>
+      <description>Wie jedes Jahr, wollen wir auch in diesem Jahr unser Erntedankfest feiern, um Gott einen kleinen Dank damit auszusprechen, für die vielen schönen Dinge, die wir genießen durfen!</description>
+    </item>
+    
+  </channel>
+</rss>

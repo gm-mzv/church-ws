@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unsere Veranstaltungen on EChB-Gemeinde Meinerzhagen-Valbert</title>
+    <link>/english/veranstaltungen/</link>
+    <description>Recent content in Unsere Veranstaltungen on EChB-Gemeinde Meinerzhagen-Valbert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="/english/veranstaltungen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jugendstunde</title>
+      <link>/english/veranstaltungen/2-jugendstunde/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/english/veranstaltungen/2-jugendstunde/</guid>
+      <description>Wir laden ganz herzlich zu unseren Jugendstunden ein. Diese werden mit interessanten Themen, Vorträgen oder einfachem Bibelstudium gestaltet und oft auch mit Gemeinschaften bei einem Kaffee umrahmt.</description>
+    </item>
+    
+    <item>
+      <title>Sonntaggottesdienst</title>
+      <link>/english/veranstaltungen/1-sonntaggottesdienst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/english/veranstaltungen/1-sonntaggottesdienst/</guid>
+      <description>Gottesdienst feiern Der Sonntaggottesdienst ist für uns jedes Mal wie ein Fest.</description>
+    </item>
+    
+  </channel>
+</rss>

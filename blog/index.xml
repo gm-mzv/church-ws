@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AKTUELLES on EChB-Gemeinde Meinerzhagen-Valbert</title>
+    <link>/blog/</link>
+    <description>Recent content in AKTUELLES on EChB-Gemeinde Meinerzhagen-Valbert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Erntedankfest</title>
+      <link>/blog/erntedankfest/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/blog/erntedankfest/</guid>
+      <description>Am 17.09.2023 findet unser jährliches Erntedankfest statt. Wir wollen unseren großen Gott für ein wunderbares Jahr danken.</description>
+    </item>
+    
+    <item>
+      <title>Hey</title>
+      <link>/blog/meinefreude/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/blog/meinefreude/</guid>
+      <description>Am 17.09.2023 findet unser jährliches Erntedankfest statt. Wir wollen unseren großen Gott für ein wunderbares Jahr danken.</description>
+    </item>
+    
+  </channel>
+</rss>
