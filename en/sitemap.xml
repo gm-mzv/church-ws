@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://gm-mzv.github.io/church-ws/</loc>
-    <lastmod>2023-09-05T11:07:10+06:00</lastmod>
+    <lastmod>2023-11-07T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
@@ -26,7 +26,19 @@
                 />
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/english/</loc>
-    <lastmod>2023-09-05T11:07:10+06:00</lastmod>
+    <lastmod>2023-11-07T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://gm-mzv.github.io/church-ws/aktuelles/</loc>
+    <lastmod>2023-11-07T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://gm-mzv.github.io/church-ws/english/aktuelles/</loc>
+    <lastmod>2023-11-07T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://gm-mzv.github.io/church-ws/aktuelles/kammerorchester121123/</loc>
+    <lastmod>2023-11-07T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://gm-mzv.github.io/church-ws/english/aktuelles/kammerorchester121123/</loc>
+    <lastmod>2023-11-07T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/english/veranstaltungen/sonntaggottesdienst/</loc>
     <lastmod>2023-09-05T11:07:10+06:00</lastmod>
@@ -39,12 +51,6 @@
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/veranstaltungen/</loc>
     <lastmod>2023-09-05T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/aktuelles/</loc>
-    <lastmod>2023-09-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/english/aktuelles/</loc>
-    <lastmod>2023-09-05T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/aktuelles/erntedank/</loc>
     <lastmod>2023-09-05T00:00:00+01:00</lastmod>
