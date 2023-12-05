@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://gm-mzv.github.io/church-ws/</loc>
-    <lastmod>2023-11-07T00:00:00+01:00</lastmod>
+    <lastmod>2023-12-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
@@ -26,13 +26,19 @@
                 />
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/english/</loc>
-    <lastmod>2023-11-07T00:00:00+01:00</lastmod>
+    <lastmod>2023-12-05T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/aktuelles/</loc>
-    <lastmod>2023-11-07T00:00:00+01:00</lastmod>
+    <lastmod>2023-12-05T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/english/aktuelles/</loc>
-    <lastmod>2023-11-07T00:00:00+01:00</lastmod>
+    <lastmod>2023-12-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://gm-mzv.github.io/church-ws/aktuelles/weihnachtsgottesdienste2023/</loc>
+    <lastmod>2023-12-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://gm-mzv.github.io/church-ws/english/aktuelles/weihnachtsgottesdienste2023/</loc>
+    <lastmod>2023-12-05T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/aktuelles/kammerorchester121123/</loc>
     <lastmod>2023-11-07T00:00:00+01:00</lastmod>
@@ -58,79 +64,17 @@
     <loc>https://gm-mzv.github.io/church-ws/english/aktuelles/erntedank/</loc>
     <lastmod>2023-09-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/</loc>
-    <lastmod>2021-04-01T00:00:00-04:00</lastmod>
-  </url><url>
     <loc>https://gm-mzv.github.io/church-ws/faq/</loc>
     <lastmod>2021-04-01T00:00:00-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-at"
-                href="https://gm-mzv.github.io/church-ws/de/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://gm-mzv.github.io/church-ws/faq/"
-                />
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/english/faq/</loc>
     <lastmod>2021-04-01T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/faq/</loc>
-    <lastmod>2021-04-01T00:00:00-04:00</lastmod>
-  </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/blog/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/blog/date-i18n/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/blog/blog-post-1/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/blog/blog-post-2/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/blog/blog-post-3/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/blog/blog-post-4/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/blog/blog-post-5/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/blog/blog-post-6/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
     <loc>https://gm-mzv.github.io/church-ws/message_sent/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-at"
-                href="https://gm-mzv.github.io/church-ws/de/message_sent/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://gm-mzv.github.io/church-ws/message_sent/"
-                />
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/english/message_sent/</loc>
   </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/message_sent/</loc>
-  </url><url>
     <loc>https://gm-mzv.github.io/church-ws/author/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-at"
-                href="https://gm-mzv.github.io/church-ws/de/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://gm-mzv.github.io/church-ws/author/"
-                />
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/english/veranstaltungen/bibelgebet/</loc>
   </url><url>
@@ -158,8 +102,6 @@
                 href="https://gm-mzv.github.io/church-ws/categories/"
                 />
   </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/service/</loc>
-  </url><url>
     <loc>https://gm-mzv.github.io/church-ws/english/veranstaltungen/ldsgottesdienste/</loc>
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/veranstaltungen/ldsgottesdienste/</loc>
@@ -169,20 +111,8 @@
     <loc>https://gm-mzv.github.io/church-ws/english/impressum/</loc>
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/author/john-doe/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-at"
-                href="https://gm-mzv.github.io/church-ws/de/author/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://gm-mzv.github.io/church-ws/author/john-doe/"
-                />
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/english/author/john-doe/</loc>
-  </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/author/john-doe/</loc>
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/english/veranstaltungen/jugendstunde/</loc>
   </url><url>
@@ -201,48 +131,16 @@
     <loc>https://gm-mzv.github.io/church-ws/english/kontakt/</loc>
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/author/mark-dinn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-at"
-                href="https://gm-mzv.github.io/church-ws/de/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://gm-mzv.github.io/church-ws/author/mark-dinn/"
-                />
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/english/author/mark-dinn/</loc>
   </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/author/mark-dinn/</loc>
-  </url><url>
     <loc>https://gm-mzv.github.io/church-ws/pricing/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-at"
-                href="https://gm-mzv.github.io/church-ws/de/pricing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://gm-mzv.github.io/church-ws/pricing/"
-                />
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/english/pricing/</loc>
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/english/project/</loc>
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/project/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-at"
-                href="https://gm-mzv.github.io/church-ws/de/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://gm-mzv.github.io/church-ws/project/"
-                />
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/english/project/bibelstudiumundgebet/</loc>
   </url><url>
@@ -263,50 +161,16 @@
     <loc>https://gm-mzv.github.io/church-ws/english/project/rio-furniture-4/</loc>
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/project/rio-furniture-4/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-at"
-                href="https://gm-mzv.github.io/church-ws/de/project/rio-furniture-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://gm-mzv.github.io/church-ws/project/rio-furniture-4/"
-                />
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/english/project/sonntaggottesdienste/</loc>
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/project/sonntaggottesdienste/</loc>
   </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/project/rio-furniture-1/</loc>
-  </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/project/rio-furniture-2/</loc>
-  </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/project/rio-furniture-3/</loc>
-  </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/project/rio-furniture-4/</loc>
-  </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/project/rio-furniture-5/</loc>
-  </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/project/rio-furniture-6/</loc>
-  </url><url>
     <loc>https://gm-mzv.github.io/church-ws/english/veranstaltungen/russischerg/</loc>
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/veranstaltungen/russischerg/</loc>
   </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/contact/</loc>
-  </url><url>
     <loc>https://gm-mzv.github.io/church-ws/service/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-at"
-                href="https://gm-mzv.github.io/church-ws/de/service/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://gm-mzv.github.io/church-ws/service/"
-                />
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/english/service/</loc>
   </url><url>
@@ -332,24 +196,8 @@
                 href="https://gm-mzv.github.io/church-ws/tags/"
                 />
   </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/about/</loc>
-  </url><url>
     <loc>https://gm-mzv.github.io/church-ws/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-at"
-                href="https://gm-mzv.github.io/church-ws/de/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://gm-mzv.github.io/church-ws/about/"
-                />
   </url><url>
     <loc>https://gm-mzv.github.io/church-ws/english/about/</loc>
-  </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/project/</loc>
-  </url><url>
-    <loc>https://gm-mzv.github.io/church-ws/german/pricing/</loc>
   </url>
 </urlset>
